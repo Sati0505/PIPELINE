@@ -1,2 +1,1 @@
-# PIPELINE
-pipeline project
+# maven_java_tutorial
